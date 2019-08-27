@@ -1,2 +1,3 @@
 # hello-world
-Not sure
+A little but about myself
+Just learning Git
